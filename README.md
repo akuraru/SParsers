@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/SParsers.svg?style=flat)](http://cocoadocs.org/docsets/SParsers)
 [![Platform](https://img.shields.io/cocoapods/p/SParsers.svg?style=flat)](http://cocoadocs.org/docsets/SParsers)
 
+SParsers is parser combinators for swift.
+
+
+<!---
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -18,6 +22,7 @@ it, simply add the following line to your Podfile:
 
     pod "SParsers"
 
+-->
 ## Author
 
 akuraru, akuraru@gmail.com
@@ -25,4 +30,3 @@ akuraru, akuraru@gmail.com
 ## License
 
 SParsers is available under the MIT license. See the LICENSE file for more info.
-
