@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.3.0)
+  - SParsers (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - SParsers (from `../`)
+
+EXTERNAL SOURCES:
+  SParsers:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: 54bece5b35564d9b8e03c608d926f1a22fcfc589
+  SParsers: 41c5bba4513c9eeaaead8ddeb4f1f08160853037
+
+COCOAPODS: 0.33.1

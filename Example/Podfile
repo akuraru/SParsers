@@ -1,0 +1,9 @@
+target 'SParsers', :exclusive => true do
+  pod "SParsers", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "SParsers", :path => "../"
+
+  pod 'Kiwi'
+end
